@@ -1,4 +1,4 @@
-Welcome to my public profile!👋 <br>  <p>I am currently working my way through the Ruby Basics exercises in preperation for the Back-End Development program at <a href="https://www.launchschool.com/">Launch School</a>.</p><br>
+Welcome to my public profile!👋 <br>  <p>I am currently working my way through the Back-End Development program at <a href="https://www.launchschool.com/">Launch School</a>!</p><br>
 
 <p>Here are some badges that I've earned from <a href="https://www.learnenough.com/">Learn Enough</a>.</p>
 
