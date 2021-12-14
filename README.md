@@ -1,4 +1,6 @@
-Welcome to my public profile!👋 <br>  <p>I am currently working my way through the Back-End Development program at <a href="https://www.launchschool.com/">Launch School</a>!</p><br>
+Welcome to my public profile!👋 <br>
+
+<p>I am currently working my way through the Python for Beginners program at <a href="https://hi.hyperskill.org/how-we-teach">JetBrains Academy</a>!</p><br>
 
 <p>Here are some badges that I've earned from <a href="https://www.learnenough.com/">Learn Enough</a>.</p>
 
