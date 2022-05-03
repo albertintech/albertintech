@@ -26,8 +26,7 @@
   
 <h2>🎓 Education</h2>
 
-- [Bachelor of Science in Information Technology](https://github.com/albertintech/BSIT-Degree/blob/main/ediploma.pdf)
-  - [Degree Validation Service](https://diplomasondemandweb.com/validate)
+- [Bachelor of Science in Information Technology](https://github.com/albertintech/BSIT-Degree)
 
 <h2>🤝 Connect with me:</h2>
 
