@@ -23,6 +23,11 @@
 - [CompTIA A+](https://www.credly.com/users/albert-e-ramos/badges)
 - [Database Programming (SQL)](https://www.credly.com/users/albert-e-ramos/badges)
 - [Database Management (MySQL)](https://www.credly.com/users/albert-e-ramos/badges)
+  
+<h2>🎓 Education</h2>
+
+- [Bachelor of Science in Information Technology](https://diplomasondemandweb.com/validate)
+  - [Degree Validation Service](https://diplomasondemandweb.com/validate)
 
 <h2> 🤳 Connect with me:</h2>
 
