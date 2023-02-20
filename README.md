@@ -16,15 +16,15 @@
 
 <h2>📄 Certifications</h2>
 
-- [AWS Certified Cloud Practioner](https://www.credly.com/users/albert-e-ramos/badges)
+- [AWS Certified Cloud Practioner](https://www.credly.com/badges/91997bab-6cdb-4bb9-92f7-c4db7dfc21a0/public_url)
 - [Cisco CCNA](https://www.credly.com/badges/e6edf74a-48f4-40fc-9b0f-d3561246b5dd/public_url)
 - [CompTIA CySA+](https://www.credly.com/badges/9d10fc96-22b1-4c7c-955e-9df5b83f5d03/public_url)
-- [CompTIA Security+](https://www.credly.com/users/albert-e-ramos/badges)
-- [CompTIA Project+](https://www.credly.com/users/albert-e-ramos/badges)
-- [CompTIA Network+](https://www.credly.com/users/albert-e-ramos/badges)
-- [CompTIA A+](https://www.credly.com/users/albert-e-ramos/badges)
-- [Database Programming (SQL)](https://www.credly.com/users/albert-e-ramos/badges)
-- [Database Management (MySQL)](https://www.credly.com/users/albert-e-ramos/badges)
+- [CompTIA Security+](https://www.credly.com/badges/6e935fc6-bf24-40d1-9c1e-642a3f913cac/public_url)
+- [CompTIA Project+](https://www.credly.com/badges/39c99a78-0b8e-440c-9154-1c4176fb2c12/public_url)
+- [CompTIA Network+](https://www.credly.com/badges/44cef50c-d755-4816-92d9-d46c4c5844c3/public_url)
+- [CompTIA A+](https://www.credly.com/badges/25400639-0d98-46b3-a9c2-f064870c3d98/public_url)
+- [Database Programming (SQL)](https://www.credly.com/badges/ebd9097b-3397-4191-a62f-91a7923a4190/public_url)
+- [Database Management (MySQL)](https://www.credly.com/badges/d33b2be6-394e-4740-aac1-6d68b9cbe3db/public_url)
   
 <h2>🎓 Education</h2>
 
