@@ -1,5 +1,6 @@
 <h1>Hi, I'm Albert! 👋🏼
 
+<!--
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>🕸 Web Development</b>
@@ -13,6 +14,7 @@
   - [Launch School RB100](https://github.com/albertintech/RB100)
   - [Launch School RB101](https://github.com/albertintech/RB101)
   - [App Academy Open](https://github.com/albertintech/App-Academy-Open)
+-->
 
 <h2>📄 Certifications</h2>
 
