@@ -17,6 +17,7 @@
 <h2>📄 Certifications</h2>
 
 - [AWS Certified Cloud Practioner](https://www.credly.com/users/albert-e-ramos/badges)
+- [Cisco CCNA](https://www.credly.com/badges/e6edf74a-48f4-40fc-9b0f-d3561246b5dd/public_url)
 - [CompTIA CySA+](https://www.credly.com/badges/9d10fc96-22b1-4c7c-955e-9df5b83f5d03/public_url)
 - [CompTIA Security+](https://www.credly.com/users/albert-e-ramos/badges)
 - [CompTIA Project+](https://www.credly.com/users/albert-e-ramos/badges)
